@@ -1,0 +1,6 @@
+# Publish only the page and its docs; everything else here (sources, images, clip) stays local.
+/*
+!/index.html
+!/README.md
+!/LICENSE
+!/.gitignore
